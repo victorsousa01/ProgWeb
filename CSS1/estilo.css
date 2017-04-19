@@ -1,0 +1,12 @@
+p {
+  font-size: 18px;
+  color: black;
+  border: 13px solid black;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 16px;
+  background-color: #C0C0C0;
+  text-align: justify;
+  width: 12cm;
+}
