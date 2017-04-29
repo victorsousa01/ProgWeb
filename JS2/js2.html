@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Instituto de Computação</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>Instituto de Computação</h1>
+  <form class="" name="circulo" action="index.html" method="post">
+    <input type="text" name="raio" value="0">
+    <input type="button" name="botao" value="OK"><br>
+    <input type="text" name="area" value="0"><br>
+    <input type="text" name="circ" value="0"><br>
+  </form>
+  <script type="text/javascript">
+    document.circulo.botao.onclick = function(){
+      raio = document.circulo.raio.value;
+      document.circulo.area.value = (Math.PI * raio * raio).toFixed(2);
+      document.circulo.circ.value = (2 * Math.PI * raio).toFixed(2);
+    }
+  </script>
+</body>
+</html>
