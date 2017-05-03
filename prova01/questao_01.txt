@@ -1,0 +1,7 @@
+linha 09 - o <style> está carregando algo q ainda não foi definido(no caso o paragrafo com id = "para" só foi definido depois. Então deve-se por o <style> após a definição desse paragrafo.
+
+linha 14 - <h1> não deve estar dentro do <head> e sim no <body>
+
+linha 15 - <p id="para"> não deve estar dentro do <head> e sim dentro do <body>
+
+linha 17 - <strong> começou mais não diz onde termina o texto em negrito.
