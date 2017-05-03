@@ -1,0 +1,2 @@
+É a quebra da cadeia de escopos e gera um espaço privado para a função.
+Faz com que a function foo(x) gere um função privada function (y) com a quebra da cadeia.
