@@ -1,4 +1,6 @@
-linha 09 - o <style> está carregando algo q ainda não foi definido(no caso o paragrafo com id = "para" só foi definido depois. Então deve-se por o <style> após a definição desse paragrafo.
+linha 4 - Não é um comentário.
+
+linha 09 - o <style> está mudando a cor de background de algo q ainda não foi definido(no caso o paragrafo com id = "para" só foi definido depois). Então deve-se por o <style> após a definição desse paragrafo.
 
 linha 14 - <h1> não deve estar dentro do <head> e sim no <body>
 
