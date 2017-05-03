@@ -1,0 +1,40 @@
+Commits on Apr 28, 2017
+ @victorsousa01
+Resultado dos exercícios de JS1 e JS2
+victorsousa01 committed 5 days ago
+1f92c066fd426bfd8f134b389c0cfb7226c334e9
+
+Commits on Apr 19, 2017
+ @victorsousa01
+Resultado dos exercícios de CSS
+victorsousa01 committed 14 days ago
+18028ef29ef507c1e178bc13986690975125761d
+ 
+Commits on Mar 28, 2017
+ @victorsousa01
+Resultado do segundo exercicio
+victorsousa01 committed on 28 Mar
+4ad49f2dbc52daf165a8a79bf3d9cfa16ebbfbad
+  
+ @victorsousa01
+Versão do segundo exercicio
+victorsousa01 committed on 28 Mar
+09af17727244f5701732e3f8b8df28833c6ce8e9
+
+ @victorsousa01
+Resultado do primeiro exercicio
+victorsousa01 committed on 28 Mar
+571fb1a2ece0e7118454fa3bdb7f463af0a7a068
+ 
+ @victorsousa01
+Versão do primeiro exercicio
+victorsousa01 committed on 28 Mar
+a37bed701096c50a9277a209c7e91657e634303b
+
+ @victorsousa01
+Versão inicial do primeiro exercicio
+victorsousa01 committed on 28 Mar
+1f7438f1ea6f3f4f97aeb24627598932541fdc48
+
+a) Diretório de trabalho é a pasta na sua maquina onde colocará todos os arquivos que achar necessário para o projeto.
+b) A diferença é que no repositório local só você terá acesso e apenas na sua maquina. Já o remoto poderá compartilhar e também acessa seu repositório de qualquer maquina.
