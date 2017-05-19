@@ -7,3 +7,6 @@ linha 14 - <h1> não deve estar dentro do <head> e sim no <body>
 linha 15 - <p id="para"> não deve estar dentro do <head> e sim dentro do <body>
 
 linha 17 - <strong> começou mais não diz onde termina o texto em negrito.
+
+Nota: 2.0
+Todos os erros foram reportados corretamente.

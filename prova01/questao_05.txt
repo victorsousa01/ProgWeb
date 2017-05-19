@@ -38,3 +38,8 @@ victorsousa01 committed on 28 Mar
 
 a) Diretório de trabalho é a pasta na sua maquina onde colocará todos os arquivos que achar necessário para o projeto.
 b) A diferença é que no repositório local só você terá acesso e apenas na sua maquina. Já o remoto poderá compartilhar e também acessa seu repositório de qualquer maquina.
+
+Nota: 2.0
+Logs e conceitos reportados corretamente.
+
+

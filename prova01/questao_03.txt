@@ -1,2 +1,5 @@
 .cl1
 span.cl1 
+
+Nota: 0.7
+Apenas um seletor está correto. O outro não seleciona apenas o elemento span.
